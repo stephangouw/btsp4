@@ -1,3 +1,7 @@
-This file is still waiting for adding content.
-Need to fix it soon.
+<h1>
+  Bootstrap 4 alpha test site
+</h1>
 
+<p>
+  Playing en testing with bootstrap 4. 
+</p>
