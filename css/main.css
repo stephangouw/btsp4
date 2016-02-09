@@ -5925,6 +5925,10 @@ body {
   color: #fff;
 }
 
+.social:nth-of-type(2) {
+  float: right;
+}
+
 .jumbotron {
   padding-top: 6rem;
   padding-bottom: 6rem;
